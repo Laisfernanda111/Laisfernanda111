@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 💙
+Boas vindos ao meu perfil 💙
 meu nome é Lais fernanda 😊
 .Estou estudando na Alura
 .Estou me desenvolvendo na linguagem JavaScript
